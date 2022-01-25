@@ -4,7 +4,13 @@
 The goal of this project was to create a professional README generator to ease the pain of starting new coding projects and writing one from scratch. README files usually have relatively standarized format, which is why the README generator allows the users to generate README by inquiring most common information. 
 
 
-Link to video:
+<img src="./assets/images/screen.png" alt="readme_screenshot" width="500"/>
+
+
+## [Link to video:](https://youtu.be/XAdMK7FK6XU)
+
+https://youtu.be/XAdMK7FK6XU
+
 
 
 To edit this project:
